@@ -1034,6 +1034,7 @@
  - (⭐ 797 x 🍴31 x 😁11) - **[emittery](https://github.com/sindresorhus/emittery)** (2017) - Simple and modern async event emitter
  - (⭐ 746 x 🍴50 x 😁11) - **[clipboardy](https://github.com/sindresorhus/clipboardy)** (2016) - Access the system clipboard (copy/paste)
  - (⭐ 704 x 🍴32 x 😁11) - **[bottleneck](https://github.com/SGrondin/bottleneck)** (2014) - Job scheduler and rate limiter, supports Clustering
+- [BetterQueue](https://github.com/Saiop68/better-queue) - Distributed rate limiter and job queue for Node.js with Redis-backed state, cross-process priority and crash recovery.
  - (⭐ 697 x 🍴33 x 😁6) - **[hasha](https://github.com/sindresorhus/hasha)** (2015) - Hashing made simple. Get the hash of a buffer/string/stream/file.
  - (⭐ 677 x 🍴167 x 😁46) - **[node-pre-gyp](https://github.com/mapbox/node-pre-gyp)** (2013) - Node.js tool for easy binary deployment of C++ addons
  - (⭐ 532 x 🍴30 x 😁12) - **[mem](https://github.com/sindresorhus/mem)** (2015) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input
